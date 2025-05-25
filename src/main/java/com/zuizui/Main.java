@@ -1,4 +1,4 @@
-package com.wtq;
+package com.zuizui;
 
 public class Main {
     public static void main(String[] args) {
